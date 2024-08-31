@@ -54,3 +54,5 @@ RESULT: 10.0 + 5.0 = 15.0
 
 - This simple calculator provides a basic way to perform arithmetic operations in Java. It is a great example for beginners to understand user input, conditional statements, and basic operations in Java.
 "# Simple-Calculator-JAVA" 
+
+#### @Copyright 2024 | Simple-Calculator-Java
